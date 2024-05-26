@@ -1,0 +1,6 @@
+Creation time: 20681 ms
+Number of Verts: 198768
+Creation time: 20940 ms
+Number of Verts: 198768
+Search time: 0 ms
+Search time: 0 ms
